@@ -1,0 +1,41 @@
+{"level":"info","message":"consultando pagamento: 80","timestamp":"2016-09-01T15:18:07.128Z"}
+{"level":"info","message":"::1 - - [01/Sep/2016:15:18:07 +0000] \"GET /pagamentos/pagamento/80 HTTP/1.1\" 200 154\n","timestamp":"2016-09-01T15:18:07.167Z"}
+{"level":"info","message":"::1 - - [02/Sep/2016:01:24:59 +0000] \"POST /correios/calculo-prazo HTTP/1.1\" 200 162\n","timestamp":"2016-09-02T01:24:59.628Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:16:21 +0000] \"POST /pagamentos/pagamento HTTP/1.1\" 201 519\n","timestamp":"2020-07-07T01:16:21.786Z"}
+{"level":"info","message":"consultando pagamento: 2","timestamp":"2020-07-07T01:16:32.545Z"}
+{"level":"info","message":"consultando pagamento: 1","timestamp":"2020-07-07T01:18:26.731Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:20:26 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" - -\n","timestamp":"2020-07-07T01:20:26.741Z"}
+{"level":"info","message":"consultando pagamento: 1","timestamp":"2020-07-07T01:23:46.409Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:23:46 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 158\n","timestamp":"2020-07-07T01:23:46.486Z"}
+{"level":"info","message":"consultando pagamento: 1","timestamp":"2020-07-07T01:24:26.977Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:24:26 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 158\n","timestamp":"2020-07-07T01:24:26.987Z"}
+{"level":"info","message":"consultando pagamento: 1","timestamp":"2020-07-07T01:24:29.278Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:24:29 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 158\n","timestamp":"2020-07-07T01:24:29.287Z"}
+{"level":"info","message":"consultando pagamento: 1","timestamp":"2020-07-07T01:36:09.005Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:36:09 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 158\n","timestamp":"2020-07-07T01:36:09.086Z"}
+{"level":"info","message":"consultando pagamento: 1","timestamp":"2020-07-07T01:36:09.706Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:36:09 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 158\n","timestamp":"2020-07-07T01:36:09.712Z"}
+{"level":"info","message":"consultando pagamento: 1","timestamp":"2020-07-07T01:36:10.371Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:36:10 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 158\n","timestamp":"2020-07-07T01:36:10.379Z"}
+{"level":"info","message":"consultando pagamento: 1","timestamp":"2020-07-07T01:36:10.984Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:36:10 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 158\n","timestamp":"2020-07-07T01:36:10.990Z"}
+{"level":"info","message":"consultando pagamento: 1","timestamp":"2020-07-07T01:36:11.447Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:36:11 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 158\n","timestamp":"2020-07-07T01:36:11.462Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:36:44 +0000] \"POST /pagamentos/pagamento HTTP/1.1\" 201 519\n","timestamp":"2020-07-07T01:36:44.729Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:36:45 +0000] \"POST /pagamentos/pagamento HTTP/1.1\" 201 519\n","timestamp":"2020-07-07T01:36:45.737Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:44:30 +0000] \"DELETE /pagamentos/pagamento/1 HTTP/1.1\" 204 -\n","timestamp":"2020-07-07T01:44:30.986Z"}
+{"level":"info","message":"consultando pagamento: 1","timestamp":"2020-07-07T01:44:55.700Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:44:55 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 158\n","timestamp":"2020-07-07T01:44:55.707Z"}
+{"level":"info","message":"consultando pagamento: 2","timestamp":"2020-07-07T01:45:15.366Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:45:15 +0000] \"GET /pagamentos/pagamento/2 HTTP/1.1\" 200 155\n","timestamp":"2020-07-07T01:45:15.375Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:45:23 +0000] \"DELETE /pagamentos/pagamento/2 HTTP/1.1\" 204 -\n","timestamp":"2020-07-07T01:45:23.095Z"}
+{"level":"info","message":"consultando pagamento: 2","timestamp":"2020-07-07T01:45:33.128Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:45:33 +0000] \"GET /pagamentos/pagamento/2 HTTP/1.1\" 200 158\n","timestamp":"2020-07-07T01:45:33.136Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:46:22 +0000] \"PUT /pagamentos/pagamento/2 HTTP/1.1\" 200 32\n","timestamp":"2020-07-07T01:46:22.600Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:47:56 +0000] \"POST /correios/calculo-prazo HTTP/1.1\" 200 192\n","timestamp":"2020-07-07T01:47:56.264Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:54:06 +0000] \"POST /upload/imagem HTTP/1.1\" 201 2\n","timestamp":"2020-07-07T01:54:06.527Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:56:04 +0000] \"POST /upload/imagem HTTP/1.1\" 201 2\n","timestamp":"2020-07-07T01:56:04.513Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:56:38 +0000] \"POST /upload/imagem HTTP/1.1\" 201 2\n","timestamp":"2020-07-07T01:56:38.388Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:56:51 +0000] \"POST /upload/imagem HTTP/1.1\" 201 2\n","timestamp":"2020-07-07T01:56:51.705Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:57:39 +0000] \"POST /upload/imagem/nodejs HTTP/1.1\" 404 34\n","timestamp":"2020-07-07T01:57:39.075Z"}
+{"level":"info","message":"::1 - - [07/Jul/2020:01:57:54 +0000] \"POST /upload/imagem/ HTTP/1.1\" 201 2\n","timestamp":"2020-07-07T01:57:54.057Z"}

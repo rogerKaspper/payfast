@@ -1,0 +1,30 @@
+node --version //Para ver a versão do node utilizada
+
+npm init //Para iniciar projetos
+
+npm install --save express
+
+npm install -g nodemon
+
+npm install --save consign
+
+npm install --save body-parser
+
+npm install --save mysql
+
+npm install --save express-validator
+
+npm install --save restify
+
+
+npm install --sava soap
+
+memcached -vv
+
+npm install --save memcached
+
+npm install --save wiston
+
+npm install --save morgan
+
+kill -9 numeroProcesso
