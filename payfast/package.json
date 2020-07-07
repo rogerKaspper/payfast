@@ -20,7 +20,7 @@
     "express-validator": "^2.20.8",
     "memcached": "^2.2.2",
     "morgan": "^1.7.0",
-    "mysql": "^2.11.1",
+    "mysql": "^2.14.0",
     "restify": "^4.1.1",
     "soap": "^0.16.0",
     "winston": "^2.2.0"
